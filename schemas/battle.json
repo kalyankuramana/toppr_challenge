@@ -1,0 +1,148 @@
+{
+    "type": "object",
+    "title": "Battle schema",
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "required": ["id", "name"],
+    "properties": {
+        "id": {
+            "type": ["integer", "null"],
+            "_db_settings": {
+                "type": "id_field",
+                "required": true,
+                "primary_key": true
+            }
+        },
+        "name": {
+            "type": "string",
+            "_db_settings": {
+                "type": "string",
+                "required": true
+            }
+        },
+        "year": {
+            "type": ["integer", "null"],
+            "_db_settings": {
+                "type": "integer"
+            }
+        },
+        "battle_number":{
+            "type":"integer",
+            "_db_settings":{
+                "type":"integer"
+            }
+        },
+        "attacker_king":{
+            "type":"string",
+            "fields":{
+                "untouched": {
+                    "type": "string",
+                    "index": "not_analyzed"
+                }   
+            },
+            "_db_settings":{
+                "type":"unicode_text",
+                "fields":{
+                    "untouched": {
+                        "type": "string",
+                        "index": "not_analyzed"
+                    }   
+                }
+            }
+        },
+        "defender_king":{
+            "type":"string",
+            "_db_settings":{
+                "type":"unicode_text"
+            }
+        },
+        "attackers":{
+            "type":["list","null"],
+            "_db_settings":{
+                "type":"list",
+                "item_type":"string"
+            }
+        },
+        "defenders":{
+            "type":["list","null"],
+            "_db_settings":{
+                "type":"list",
+                "item_type":"string"
+            }
+        },
+        "attacker_outcome":{
+            "type":["string","null"],
+            "_db_settings":{
+                "type":"choice",
+                "choices":["win","loss",""]
+            }
+        },
+        "battle_type":{
+            "type":"string",
+            "_db_settings":{
+                "type":"string"
+            }
+        },
+        "major_death":{
+            "type":"boolean",
+            "_db_settings":{
+                "type":"boolean"
+            }
+        },
+        "major_capture":{
+            "type":"boolean",
+            "_db_settings":{
+                "type":"boolean"
+            }
+        },
+        "attacker_size":{
+            "type":["integer","null"],
+            "_db_settings":{
+                "type":"integer"
+            }
+        },
+        "defender_size":{
+            "type":["integer","null"],
+            "_db_settings":{
+                "type":"integer"
+            }
+        },
+        "attacker_commander":{
+            "type":["list","null"],
+            "_db_settings":{
+                "type":"list",
+                "item_type":"string"
+            }
+        },
+        "defender_commander":{
+            "type":["list","null"],
+            "_db_settings":{
+                "type":"list",
+                "item_type":"string"
+            }
+        },
+        "summer":{
+            "type":"boolean",
+            "_db_settings":{
+                "type":"boolean"
+            }
+        },
+        "location":{
+            "type":["string","null"],
+            "_db_settings":{
+                "type":"string"
+            }
+        },
+        "region":{
+            "type":"string",
+            "_db_settings":{
+                "type":"string"
+            }
+        },
+        "note": {
+            "type": ["string", "null"],
+            "_db_settings": {
+                "type": "text"
+            }
+        }
+    }
+}

@@ -1,0 +1,1200 @@
+ [
+    {
+      "attacker_commander": [
+        "Ramsay Snow",
+        "Theon Greyjoy"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Sack of Winterfell",
+      "battle_number": 14,
+      "defender_commander": [
+        "Rodrik Cassel",
+        "Cley Cerwyn",
+        "Leobald Tallhart"
+      ],
+      "defenders": [
+        "Stark"
+      ],
+      "attacker_size": 618,
+      "year": 299,
+      "defender_king": "Robb Stark",
+      "note": "Since House Bolton betrays the Starks for House Lannister, we code this battle as between these two houses. Greyjoy men, numbering only 20, don't play a major part in the fighting and end up dying anyway.",
+      "attackers": [
+        "Bolton",
+        "Greyjoy"
+      ],
+      "defender_size": 2000,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Winterfell",
+      "battle_type": "ambush",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The North",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Stannis Baratheon",
+        "Davos Seaworth"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Siege of Storm's End",
+      "battle_number": 16,
+      "defender_commander": [
+        "Renly Baratheon",
+        "Cortnay Penrose",
+        "Loras Tyrell",
+        "Randyll Tarly",
+        "Mathis Rowan"
+      ],
+      "defenders": [
+        "Baratheon"
+      ],
+      "attacker_size": 5000,
+      "year": 299,
+      "defender_king": "Renly Baratheon",
+      "note": "",
+      "attackers": [
+        "Baratheon"
+      ],
+      "defender_size": 20000,
+      "attacker_king": "Stannis Baratheon",
+      "location": "Storm's End",
+      "battle_type": "siege",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Stormlands",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Mance Rayder",
+        "Tormund Giantsbane",
+        "Harma Dogshead",
+        "Magnar Styr",
+        "Varamyr"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Battle of Castle Black",
+      "battle_number": 28,
+      "defender_commander": [
+        "Stannis Baratheon",
+        "Jon Snow",
+        "Donal Noye",
+        "Cotter Pyke"
+      ],
+      "defenders": [
+        "Night's Watch",
+        "Baratheon"
+      ],
+      "attacker_size": 100000,
+      "year": 300,
+      "defender_king": "Mance Rayder",
+      "note": "",
+      "attackers": [
+        "Free folk",
+        "Thenns",
+        "Giants"
+      ],
+      "defender_size": 1240,
+      "attacker_king": "Stannis Baratheon",
+      "location": "Castle Black",
+      "battle_type": "siege",
+      "major_capture": true,
+      "attacker_outcome": "loss",
+      "region": "Beyond the Wall",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Gregor Clegane"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle at the Mummer's Ford",
+      "battle_number": 2,
+      "defender_commander": [
+        "Beric Dondarrion"
+      ],
+      "defenders": [
+        "Baratheon"
+      ],
+      "attacker_size": null,
+      "year": 298,
+      "defender_king": "Robb Stark",
+      "note": "",
+      "attackers": [
+        "Lannister"
+      ],
+      "defender_size": 120,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Mummer's Ford",
+      "battle_type": "ambush",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Asha Greyjoy"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of Deepwood Motte",
+      "battle_number": 9,
+      "defender_commander": [],
+      "defenders": [
+        "Stark"
+      ],
+      "attacker_size": 1000,
+      "year": 299,
+      "defender_king": "Robb Stark",
+      "note": "",
+      "attackers": [
+        "Greyjoy"
+      ],
+      "defender_size": null,
+      "attacker_king": "Balon/Euron Greyjoy",
+      "location": "Deepwood Motte",
+      "battle_type": "siege",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The North",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Robb Stark",
+        "Smalljon Umber",
+        "Black Walder Frey"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of the Crag",
+      "battle_number": 19,
+      "defender_commander": [
+        "Rolph Spicer"
+      ],
+      "defenders": [
+        "Lannister"
+      ],
+      "attacker_size": 6000,
+      "year": 299,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Stark"
+      ],
+      "defender_size": null,
+      "attacker_king": "Robb Stark",
+      "location": "Crag",
+      "battle_type": "ambush",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Westerlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Walder Frey"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Siege of Seagard",
+      "battle_number": 27,
+      "defender_commander": [
+        "Jason Mallister"
+      ],
+      "defenders": [
+        "Mallister"
+      ],
+      "attacker_size": null,
+      "year": 299,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Frey"
+      ],
+      "defender_size": null,
+      "attacker_king": "Robb Stark",
+      "location": "Seagard",
+      "battle_type": "siege",
+      "major_capture": true,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Loras Tyrell",
+        "Raxter Redwyne"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Siege of Dragonstone",
+      "battle_number": 35,
+      "defender_commander": [
+        "Rolland Storm"
+      ],
+      "defenders": [
+        "Baratheon"
+      ],
+      "attacker_size": 2000,
+      "year": 300,
+      "defender_king": "Stannis Baratheon",
+      "note": "",
+      "attackers": [
+        "Baratheon"
+      ],
+      "defender_size": null,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Dragonstone",
+      "battle_type": "siege",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Stormlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Jonos Bracken",
+        "Jaime Lannister"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Siege of Raventree",
+      "battle_number": 37,
+      "defender_commander": [
+        "Tytos Blackwood"
+      ],
+      "defenders": [
+        "Blackwood"
+      ],
+      "attacker_size": 1500,
+      "year": 300,
+      "defender_king": "Robb Stark",
+      "note": "",
+      "attackers": [
+        "Bracken",
+        "Lannister"
+      ],
+      "defender_size": null,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Raventree",
+      "battle_type": "siege",
+      "major_capture": true,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Jaime Lannister"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of the Golden Tooth",
+      "battle_number": 1,
+      "defender_commander": [
+        "Clement Piper",
+        "Vance"
+      ],
+      "defenders": [
+        "Tully"
+      ],
+      "attacker_size": 15000,
+      "year": 298,
+      "defender_king": "Robb Stark",
+      "note": "",
+      "attackers": [
+        "Lannister"
+      ],
+      "defender_size": 4000,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Golden Tooth",
+      "battle_type": "pitched battle",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Westerlands",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Jaime Lannister",
+        "Andros Brax"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of Riverrun",
+      "battle_number": 3,
+      "defender_commander": [
+        "Edmure Tully",
+        "Tytos Blackwood"
+      ],
+      "defenders": [
+        "Tully"
+      ],
+      "attacker_size": 15000,
+      "year": 298,
+      "defender_king": "Robb Stark",
+      "note": "",
+      "attackers": [
+        "Lannister"
+      ],
+      "defender_size": 10000,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Riverrun",
+      "battle_type": "pitched battle",
+      "major_capture": true,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Rodrik Cassel",
+        "Cley Cerwyn"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of Torrhen's Square",
+      "battle_number": 11,
+      "defender_commander": [
+        "Dagmer Cleftjaw"
+      ],
+      "defenders": [
+        "Greyjoy"
+      ],
+      "attacker_size": 244,
+      "year": 299,
+      "defender_king": "Balon/Euron Greyjoy",
+      "note": "Greyjoy's troop number comes from the 264 estimate to have arrived on the stony shore minus the 20 Theon takes to attack Winterfell. Thus 264-20=244",
+      "attackers": [
+        "Stark"
+      ],
+      "defender_size": 900,
+      "attacker_king": "Robb Stark",
+      "location": "Torrhen's Square",
+      "battle_type": "pitched battle",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The North",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Robb Stark",
+        "Brynden Tully"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of Oxcross",
+      "battle_number": 15,
+      "defender_commander": [
+        "Stafford Lannister",
+        "Roland Crakehall, Antario Jast"
+      ],
+      "defenders": [
+        "Lannister"
+      ],
+      "attacker_size": 6000,
+      "year": 299,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Stark",
+        "Tully"
+      ],
+      "defender_size": 10000,
+      "attacker_king": "Robb Stark",
+      "location": "Oxcross",
+      "battle_type": "ambush",
+      "major_capture": true,
+      "attacker_outcome": "win",
+      "region": "The Westerlands",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Walder Frey",
+        "Roose Bolton",
+        "Walder Rivers"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "The Red Wedding",
+      "battle_number": 26,
+      "defender_commander": [
+        "Robb Stark"
+      ],
+      "defenders": [
+        "Stark"
+      ],
+      "attacker_size": 3500,
+      "year": 299,
+      "defender_king": "Robb Stark",
+      "note": "This observation refers to the battle against the Stark men, not the attack on the wedding",
+      "attackers": [
+        "Frey",
+        "Bolton"
+      ],
+      "defender_size": 3500,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "The Twins",
+      "battle_type": "ambush",
+      "major_capture": true,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Stannis Baratheon",
+        "Alysane Mormot"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Retaking of Deepwood Motte",
+      "battle_number": 31,
+      "defender_commander": [
+        "Asha Greyjoy"
+      ],
+      "defenders": [
+        "Greyjoy"
+      ],
+      "attacker_size": 4500,
+      "year": 300,
+      "defender_king": "Balon/Euron Greyjoy",
+      "note": "",
+      "attackers": [
+        "Baratheon",
+        "Karstark",
+        "Mormont",
+        "Glover"
+      ],
+      "defender_size": 200,
+      "attacker_king": "Stannis Baratheon",
+      "location": "Deepwood Motte",
+      "battle_type": "pitched battle",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The North",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Helman Tallhart"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Siege of Darry",
+      "battle_number": 21,
+      "defender_commander": [],
+      "defenders": [
+        "Lannister"
+      ],
+      "attacker_size": null,
+      "year": 299,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Darry"
+      ],
+      "defender_size": null,
+      "attacker_king": "Robb Stark",
+      "location": "Darry",
+      "battle_type": "siege",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Gregor Clegane"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Retaking of Harrenhal",
+      "battle_number": 25,
+      "defender_commander": [
+        "Vargo Hoat"
+      ],
+      "defenders": [
+        "Brave Companions"
+      ],
+      "attacker_size": null,
+      "year": 299,
+      "defender_king": "",
+      "note": "",
+      "attackers": [
+        "Lannister"
+      ],
+      "defender_size": null,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Harrenhal",
+      "battle_type": "pitched battle",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Mace Tyrell",
+        "Mathis Rowan"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Second Seige of Storm's End",
+      "battle_number": 34,
+      "defender_commander": [
+        "Gilbert Farring"
+      ],
+      "defenders": [
+        "Baratheon"
+      ],
+      "attacker_size": null,
+      "year": 300,
+      "defender_king": "Stannis Baratheon",
+      "note": "",
+      "attackers": [
+        "Baratheon"
+      ],
+      "defender_size": 200,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Storm's End",
+      "battle_type": "siege",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Stormlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Roose Bolton",
+        "Wylis Manderly",
+        "Medger Cerwyn",
+        "Harrion Karstark",
+        "Halys Hornwood"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of the Green Fork",
+      "battle_number": 4,
+      "defender_commander": [
+        "Tywin Lannister",
+        "Gregor Clegane",
+        "Kevan Lannister",
+        "Addam Marbrand"
+      ],
+      "defenders": [
+        "Lannister"
+      ],
+      "attacker_size": 18000,
+      "year": 298,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Stark"
+      ],
+      "defender_size": 20000,
+      "attacker_king": "Robb Stark",
+      "location": "Green Fork",
+      "battle_type": "pitched battle",
+      "major_capture": true,
+      "attacker_outcome": "loss",
+      "region": "The Riverlands",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Robb Stark",
+        "Tytos Blackwood",
+        "Brynden Tully"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of the Camps",
+      "battle_number": 6,
+      "defender_commander": [
+        "Lord Andros Brax",
+        "Forley Prester"
+      ],
+      "defenders": [],
+      "attacker_size": 6000,
+      "year": 298,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Stark",
+        "Tully"
+      ],
+      "defender_size": 12625,
+      "attacker_king": "Robb Stark",
+      "location": "Riverrun",
+      "battle_type": "ambush",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Stannis Baratheon",
+        "Imry Florent",
+        "Guyard Morrigen",
+        "Rolland Storm",
+        "Salladhor Saan",
+        "Davos Seaworth"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of the Blackwater",
+      "battle_number": 20,
+      "defender_commander": [
+        "Tyrion Lannister",
+        "Jacelyn Bywater",
+        "Sandor Clegane",
+        "Tywin Lannister",
+        "Garlan Tyrell",
+        "Mace Tyrell",
+        "Randyll Tarly"
+      ],
+      "defenders": [
+        "Lannister"
+      ],
+      "attacker_size": 21000,
+      "year": 299,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Baratheon"
+      ],
+      "defender_size": 7250,
+      "attacker_king": "Stannis Baratheon",
+      "location": "King's Landing",
+      "battle_type": "pitched battle",
+      "major_capture": true,
+      "attacker_outcome": "loss",
+      "region": "The Crownlands",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Robertt Glover",
+        "Helman Tallhart"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of Duskendale",
+      "battle_number": 22,
+      "defender_commander": [
+        "Randyll Tarly",
+        "Gregor Clegane"
+      ],
+      "defenders": [
+        "Lannister"
+      ],
+      "attacker_size": 3000,
+      "year": 299,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Stark"
+      ],
+      "defender_size": null,
+      "attacker_king": "Robb Stark",
+      "location": "Duskendale",
+      "battle_type": "pitched battle",
+      "major_capture": false,
+      "attacker_outcome": "loss",
+      "region": "The Crownlands",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Gregor Clegane"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Battle of the Ruby Ford",
+      "battle_number": 24,
+      "defender_commander": [
+        "Roose Bolton",
+        "Wylis Manderly"
+      ],
+      "defenders": [
+        "Stark"
+      ],
+      "attacker_size": null,
+      "year": 299,
+      "defender_king": "Robb Stark",
+      "note": "",
+      "attackers": [
+        "Lannister"
+      ],
+      "defender_size": 6000,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Ruby Ford",
+      "battle_type": "pitched battle",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Euron Greyjoy",
+        "Victarion Greyjoy"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Invasion of Ryamsport, Vinetown, and Starfish Harbor",
+      "battle_number": 33,
+      "defender_commander": [],
+      "defenders": [
+        "Tyrell"
+      ],
+      "attacker_size": null,
+      "year": 300,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Greyjoy"
+      ],
+      "defender_size": null,
+      "attacker_king": "Balon/Euron Greyjoy",
+      "location": "Ryamsport, Vinetown, Starfish Harbor",
+      "battle_type": "razing",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Reach",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Theon Greyjoy"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of the Stony Shore",
+      "battle_number": 10,
+      "defender_commander": [],
+      "defenders": [
+        "Stark"
+      ],
+      "attacker_size": 264,
+      "year": 299,
+      "defender_king": "Robb Stark",
+      "note": "Greyjoy's troop number based on the Battle of Deepwood Motte, in which Asha had 1000 soldier on 30 longships. That comes out to ~33 per longship. In the Battle of the Stony Shore, Theon has 8 longships, and just we can estimate that he has 8*33 =265 troops.",
+      "attackers": [
+        "Greyjoy"
+      ],
+      "defender_size": null,
+      "attacker_king": "Balon/Euron Greyjoy",
+      "location": "Stony Shore",
+      "battle_type": "ambush",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The North",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Stannis Baratheon"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Siege of Winterfell",
+      "battle_number": 38,
+      "defender_commander": [
+        "Roose Bolton"
+      ],
+      "defenders": [
+        "Bolton",
+        "Frey"
+      ],
+      "attacker_size": 5000,
+      "year": 300,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Baratheon",
+        "Karstark",
+        "Mormont",
+        "Glover"
+      ],
+      "defender_size": 8000,
+      "attacker_king": "Stannis Baratheon",
+      "location": "Winterfell",
+      "battle_type": "",
+      "major_capture": false,
+      "attacker_outcome": null,
+      "region": "The North",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Robb Stark",
+        "Brynden Tully"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of the Whispering Wood",
+      "battle_number": 5,
+      "defender_commander": [
+        "Jaime Lannister"
+      ],
+      "defenders": [
+        "Lannister"
+      ],
+      "attacker_size": 1875,
+      "year": 298,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Stark",
+        "Tully"
+      ],
+      "defender_size": 6000,
+      "attacker_king": "Robb Stark",
+      "location": "Whispering Wood",
+      "battle_type": "ambush",
+      "major_capture": true,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Roose Bolton",
+        "Vargo Hoat",
+        "Robett Glover"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Sack of Harrenhal",
+      "battle_number": 18,
+      "defender_commander": [
+        "Amory Lorch"
+      ],
+      "defenders": [
+        "Lannister"
+      ],
+      "attacker_size": 100,
+      "year": 299,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Stark"
+      ],
+      "defender_size": 100,
+      "attacker_king": "Robb Stark",
+      "location": "Harrenhal",
+      "battle_type": "ambush",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": true
+    },
+    {
+      "attacker_commander": [
+        "Gregor Clegane"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Sack of Darry",
+      "battle_number": 7,
+      "defender_commander": [
+        "Lyman Darry"
+      ],
+      "defenders": [
+        "Darry"
+      ],
+      "attacker_size": null,
+      "year": 298,
+      "defender_king": "Robb Stark",
+      "note": "",
+      "attackers": [
+        "Lannister"
+      ],
+      "defender_size": null,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Darry",
+      "battle_type": "pitched battle",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Theon Greyjoy"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of Winterfell",
+      "battle_number": 12,
+      "defender_commander": [
+        "Bran Stark"
+      ],
+      "defenders": [
+        "Stark"
+      ],
+      "attacker_size": 20,
+      "year": 299,
+      "defender_king": "Robb Stark",
+      "note": "It isn't mentioned how many Stark men are left in Winterfell, other than \"very few\".",
+      "attackers": [
+        "Greyjoy"
+      ],
+      "defender_size": null,
+      "attacker_king": "Balon/Euron Greyjoy",
+      "location": "Winterfell",
+      "battle_type": "ambush",
+      "major_capture": true,
+      "attacker_outcome": "win",
+      "region": "The North",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of the Burning Septry",
+      "battle_number": 23,
+      "defender_commander": [],
+      "defenders": [
+        "Brave Companions"
+      ],
+      "attacker_size": null,
+      "year": 299,
+      "defender_king": "",
+      "note": "",
+      "attackers": [
+        "Brotherhood without Banners"
+      ],
+      "defender_size": null,
+      "attacker_king": "",
+      "location": "",
+      "battle_type": "pitched battle",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Euron Greyjoy",
+        "Victarion Greyjoy"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Battle of the Shield Islands",
+      "battle_number": 32,
+      "defender_commander": [],
+      "defenders": [
+        "Tyrell"
+      ],
+      "attacker_size": null,
+      "year": 300,
+      "defender_king": "Joffrey/Tommen Baratheon",
+      "note": "",
+      "attackers": [
+        "Greyjoy"
+      ],
+      "defender_size": null,
+      "attacker_king": "Balon/Euron Greyjoy",
+      "location": "Shield Islands",
+      "battle_type": "pitched battle",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Reach",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Tywin Lannister",
+        "Flement Brax",
+        "Gregor Clegane",
+        "Addam Marbrand",
+        "Lyle Crakehall",
+        "Leo Lefford"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of the Fords",
+      "battle_number": 17,
+      "defender_commander": [
+        "Edmure Tully",
+        "Jason Mallister",
+        "Karyl Vance"
+      ],
+      "defenders": [
+        "Tully"
+      ],
+      "attacker_size": 20000,
+      "year": 299,
+      "defender_king": "Robb Stark",
+      "note": "",
+      "attackers": [
+        "Lannister"
+      ],
+      "defender_size": 10000,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Red Fork",
+      "battle_type": "pitched battle",
+      "major_capture": false,
+      "attacker_outcome": "loss",
+      "region": "The Riverlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Victarion Greyjoy"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Battle of Moat Cailin",
+      "battle_number": 8,
+      "defender_commander": [],
+      "defenders": [
+        "Stark"
+      ],
+      "attacker_size": null,
+      "year": 299,
+      "defender_king": "Robb Stark",
+      "note": "",
+      "attackers": [
+        "Greyjoy"
+      ],
+      "defender_size": null,
+      "attacker_king": "Balon/Euron Greyjoy",
+      "location": "Moat Cailin",
+      "battle_type": "pitched battle",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The North",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Dagmer Cleftjaw"
+      ],
+      "summer": true,
+      "_type": "Battle",
+      "name": "Sack of Torrhen's Square",
+      "battle_number": 13,
+      "defender_commander": [],
+      "defenders": [
+        "Stark"
+      ],
+      "attacker_size": null,
+      "year": 299,
+      "defender_king": "Balon/Euron Greyjoy",
+      "note": "",
+      "attackers": [
+        "Greyjoy"
+      ],
+      "defender_size": null,
+      "attacker_king": "Balon/Euron Greyjoy",
+      "location": "Torrhen's Square",
+      "battle_type": "siege",
+      "major_capture": true,
+      "attacker_outcome": "win",
+      "region": "The North",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Ramsey Bolton"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Fall of Moat Cailin",
+      "battle_number": 29,
+      "defender_commander": [],
+      "defenders": [
+        "Greyjoy"
+      ],
+      "attacker_size": null,
+      "year": 300,
+      "defender_king": "Balon/Euron Greyjoy",
+      "note": "",
+      "attackers": [
+        "Bolton"
+      ],
+      "defender_size": null,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Moat Cailin",
+      "battle_type": "siege",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The North",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Rorge"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Sack of Saltpans",
+      "battle_number": 30,
+      "defender_commander": [],
+      "defenders": [],
+      "attacker_size": null,
+      "year": 300,
+      "defender_king": "",
+      "note": "",
+      "attackers": [
+        "Brave Companions"
+      ],
+      "defender_size": null,
+      "attacker_king": "",
+      "location": "Saltpans",
+      "battle_type": "razing",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": false
+    },
+    {
+      "attacker_commander": [
+        "Daven Lannister",
+        "Ryman Fey",
+        "Jaime Lannister"
+      ],
+      "summer": false,
+      "_type": "Battle",
+      "name": "Siege of Riverrun",
+      "battle_number": 36,
+      "defender_commander": [
+        "Brynden Tully"
+      ],
+      "defenders": [
+        "Tully"
+      ],
+      "attacker_size": 3000,
+      "year": 300,
+      "defender_king": "Robb Stark",
+      "note": "",
+      "attackers": [
+        "Lannister",
+        "Frey"
+      ],
+      "defender_size": null,
+      "attacker_king": "Joffrey/Tommen Baratheon",
+      "location": "Riverrun",
+      "battle_type": "siege",
+      "major_capture": false,
+      "attacker_outcome": "win",
+      "region": "The Riverlands",
+      "major_death": false
+    }
+  ]

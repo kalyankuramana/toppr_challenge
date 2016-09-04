@@ -1,0 +1,11 @@
+{
+    "type": "object",
+    "title": "stats schema",
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "_event_handlers":{
+        "after_index":["get_battle_stats"]
+    },
+    "properties": {
+       
+    }
+}

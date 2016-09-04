@@ -1,0 +1,39 @@
+#%RAML 0.8
+---
+title: topper_challenge API
+documentation:
+    - title: topper_challenge REST API
+      content: |
+        Welcome to the topper_challenge API.
+baseUri: http://{host}:{port}/{version}
+version: v1
+mediaType: application/json
+protocols: [HTTP]
+
+
+/battles:
+    displayName: Collection of battles
+    get:
+        description: Get all battles
+    post:
+        description: Create a new battle
+        body:
+            application/json:
+                schema: !include schemas/battle.json
+    options:
+    
+    /{id}:
+        displayName: Information about a battle
+        get:
+        patch:
+        options:
+            
+/stats:
+    displayName: Statistics of battle
+    get:
+    post:
+        description: dummy endpoint doesnot save any resource
+        body:
+            application/json:
+                schema: !include schemas/stats.json
+        
